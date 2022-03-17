@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5A794102-418E-47AB-A8EA-E45C55DB8125"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDCC1255-0AEB-4652-A53D-C07ABA6D03E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Extensions/Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UIView"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C42DC02B-BE92-4813-A763-115E15B2EBB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "searchBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32C2D02D-C783-4F6E-8774-A8FBED684F14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "searchBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70A225FC-368A-4105-A3C7-E2771BD5B2CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "searchBtnTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70A225FC-368A-4105-A3C7-E2771BD5B2CC - da3890734d99da9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYT_JAC_FA_DA.SearchArticleViewController.searchBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "70A225FC-368A-4105-A3C7-E2771BD5B2CC - eee9e5b40ead8c9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in NYT_JAC_FA_DA.SearchArticleViewController.searchBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F342BE7-EA95-4330-B7F3-17B8168E3687"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "searchBtnTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F342BE7-EA95-4330-B7F3-17B8168E3687 - da3890734d99db31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYT_JAC_FA_DA.SearchArticleViewController.searchBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "1F342BE7-EA95-4330-B7F3-17B8168E3687 - 6e9fbc8fcda406fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Int) -&gt; () in NYT_JAC_FA_DA.SearchArticleViewController.searchBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "511AC6B0-1018-4C2A-9628-9F52D6A27241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/SearchArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "searchBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F9CB314-FC4A-4CF1-BC28-FE487D632502"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7251FEED-535F-476F-AF6C-6BD5443828E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4B67F1D-F3C2-4516-9F69-72A8FA6178A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4B67F1D-F3C2-4516-9F69-72A8FA6178A1 - b6a3119bd7ee5030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;NYT_JAC_FA_DA.PopulareArticleArrayDataModel, Swift.Error&gt;) -&gt; () in NYT_JAC_FA_DA.ArticlesListViewController.callAPi() -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "499">
+               </Location>
+               <Location
+                  uuid = "D4B67F1D-F3C2-4516-9F69-72A8FA6178A1 - f08c387928b63a79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Swift.Result&lt;NYT_JAC_FA_DA.PopulareArticleArrayDataModel, Swift.Error&gt;) -&gt; () in NYT_JAC_FA_DA.ArticlesListViewController.callAPi() -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F83B73B-86A7-42C0-85C5-39105F99A266"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDD6AB81-8927-4583-A877-A14F73FE3097"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDD6AB81-8927-4583-A877-A14F73FE3097 - f08c387928b63b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Swift.Result&lt;NYT_JAC_FA_DA.PopulareArticleArrayDataModel, Swift.Error&gt;) -&gt; () in NYT_JAC_FA_DA.ArticlesListViewController.callAPi() -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "DDD6AB81-8927-4583-A877-A14F73FE3097 - 70707ba44129bc99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in closure #1 () -&gt; () in closure #2 (Swift.Result&lt;NYT_JAC_FA_DA.PopulareArticleArrayDataModel, Swift.Error&gt;) -&gt; () in NYT_JAC_FA_DA.ArticlesListViewController.callAPi() -&gt; ()"
+                  moduleName = "NYT-JAC-FA-DA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f_sur/Desktop/NYT-JAC-FA-DA/NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AA0969E-4822-434F-84FB-D1127256FFBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5542B8C-2B72-441F-B067-370DC4C77518"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD82EE3-59DB-4D2E-893D-1029EBA2A761"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95D45325-D20B-4A15-B214-7EE43F0737D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5103D3E-D366-4A02-BC10-118A63BB138F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26C0D42B-7A15-4BED-A14F-0FC825CABEA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYT-JAC-FA-DA/Controller/ArticlesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "CallAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

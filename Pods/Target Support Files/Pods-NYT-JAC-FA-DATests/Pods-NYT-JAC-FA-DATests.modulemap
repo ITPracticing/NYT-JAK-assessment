@@ -1,0 +1,6 @@
+framework module Pods_NYT_JAC_FA_DATests {
+  umbrella header "Pods-NYT-JAC-FA-DATests-umbrella.h"
+
+  export *
+  module * { export * }
+}
